@@ -1,21 +1,14 @@
 # CV#1.Markdown and git
-
 1. Full Name:
    Kozlov Stanislav
-
 2. Contacts:
-
    - Gmail: kazemirova.l@gmail.com
    - GitHub: [boarSkull](https://github.com/boarSkull)
    - [Telegram](https://t.me/stas12412)
-
 3. About myself:
    I am a university graduate. Its been a long and hard path for me to get through.
    Unfortunately, the lack of any motivation has led to a meager amount of knowledge, which was barely enough for the implementation of the graduation project. After graduation I tried to get a job, but I can only successfully pass HR specialist and a stumbling block in the form of a technical interview.
    Realizing the complexity of the current situation, I decided to strengthen my knowledge so that it would be sufficient for employment
-
-===
-
 4. Skills:
    - _C#_
    - _EF Core_
@@ -25,11 +18,9 @@
    - _JavaScript_
    - _React basics_
    - _Node.js basics_
-
-===
-
 5. Code example:
    **_Sum of Intervals 4kyu_**
+   ```
    function sumIntervals(intervals) {
    let result = [];
    intervals.sort((a, b) => a[0] - b[0]);
@@ -56,15 +47,10 @@
    return result;
    }
    }
-
-===
-
-7. Education:
+   ```
+6. Education:
    - Finished basic .Net Training at EPAM during summer practice at university.
    - Learned js at [learn javascript ru](https://learn.javascript.ru/)
-
-===
-
-8. Foreign language:
+7. Foreign language:
    In the 10th(2017) grade I certificated B2 level in the international house at Minsk.
    But its been 5 years so probably B1.
