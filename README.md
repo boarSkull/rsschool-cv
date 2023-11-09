@@ -1,1 +1,1 @@
-https://boarSkull.github.io/rsschool-cv/cv
+https://boarSkull.github.io/rsschool-cv/
